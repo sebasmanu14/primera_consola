@@ -6,7 +6,7 @@ namespace miPrimerConsola.consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola  Mundo!");
         }
     }
 }
